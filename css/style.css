@@ -163,6 +163,16 @@
     position: relative;
     overflow: hidden;
     height: 90vh;
+
+    @media screen and (max-width: 767px) {
+        height: 100%;
+
+    }
+}
+
+.navbar-toggler {
+    padding: 0 5px;
+    border-radius: 4px;
 }
 
 .carousel-caption {
