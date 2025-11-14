@@ -16,7 +16,7 @@ Elegant landing experience combining strategic messaging and visual storytelling
 (Add your screenshots below)
 
 ![Desktop View](./img/MarketMuse_desktop.png)  
-![Responsive View](./img/MarketMuse_desktop.png)
+![Responsive View](./img/MarketMuse_mobile.png)
 
 ---
 
