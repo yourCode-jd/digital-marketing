@@ -7,7 +7,7 @@ Elegant landing experience combining strategic messaging and visual storytelling
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/drinkBottel/)
+[View Here](https://yourcode-jd.github.io/MarketMuseStudio/)
 
 ---
 
